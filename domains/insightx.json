@@ -5,6 +5,8 @@
   },
   "record": {
     "CNAME": "insightx-jade.vercel.app",
-     "TXT": "vc-domain-verify=insightx.is-a.dev,3424bf549b2380a126a7"
+    "TXT": [
+      "vc-domain-verify=insightx.is-a.dev,3424bf549b2380a126a7"
+    ]
   }
 }
